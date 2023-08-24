@@ -1,0 +1,15 @@
+body{
+    padding-top: 2rem;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body>header{
+    text-align: center;
+}
+   
+
+.container{
+    width: min(80ch , 100vw - 2rem);
+    margin-inline: auto;  
+    
+}
